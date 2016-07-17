@@ -121,7 +121,7 @@ void RadixSortTest()
 			cout << endl;
 }
 
-int main()
+void main()
 {
 //	insertsorttest();
 
@@ -141,7 +141,7 @@ int main()
 
 	RadixSortTest();
 	system("pause");
-	return 0;
+	return;
 }
 
 
